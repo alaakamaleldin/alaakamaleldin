@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on dat science projects
-- 📫 How to reach me :you can contact me in my email alaakamaleldinn@gmail.com
+- 📫 How to reach me :you can contact me in my email alaakamaleldinn@gmail.com or linkedin account https://www.linkedin.com/in/alaakamaleldin/
 
 <!---
 alaakamaleldin/alaakamaleldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
